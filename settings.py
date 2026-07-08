@@ -9,7 +9,7 @@ BASE_DIR = Path(__file__).resolve().parent
 RESOURCES_DIR = BASE_DIR / "resources"
 
 HEF_PATH = RESOURCES_DIR / "yolov8n_leaf_416_v2.hef"
-MOCK_VIDEO_PATH = RESOURCES_DIR / "video_prueba_mold2_1536x864.mp4" # Video de prueba
+MOCK_VIDEO_PATH = RESOURCES_DIR / "hojas_test.mp4" # Video de prueba
 
 # --- PARÁMETROS DEL MODELO ---
 INPUT_SIZE = 416  

@@ -1,0 +1,16 @@
+# Entornos virtuales de Python
+env/
+venv/
+venv_hailo_rpi5_examples/
+
+# Caché compilada de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema operativo y editores
+.vscode/
+.DS_Store
+
+# Archivos pesados o multimedia de prueba (No subir a GitHub)
+resources/*.mp4
+resources/*.avi
